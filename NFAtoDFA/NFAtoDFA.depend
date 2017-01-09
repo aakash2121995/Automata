@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1481901947 source:d:\automata\nfatodfa\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<cstring>
+	<sstream>
+	<fstream>
+	<map>
+
+1481904196 source:g:\nfatodfa\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<cstring>
+	<sstream>
+	<fstream>
+	<map>
+

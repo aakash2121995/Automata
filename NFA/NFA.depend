@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1470114410 source:/home/eram/Desktop/Automata/NFA/main.cpp
+	<iostream>
+	<vector>
+	<cstring>
+	<fstream>
+	<cstdlib>
+

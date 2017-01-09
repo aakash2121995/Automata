@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1470721145 source:/home/eram/Desktop/Automata/moore/main.cpp
+	<iostream>
+	<cstdio>
+	<vector>
+	<cstring>
+

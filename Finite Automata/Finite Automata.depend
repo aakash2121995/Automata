@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1481899607 source:d:\automata\automata\finite automata\main.cpp
+	<iostream>
+	<cstring>
+	<vector>
+	<algorithm>
+	<fstream>
+	<sstream>
+

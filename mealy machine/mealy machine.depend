@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1470717492 source:/home/eram/Desktop/Automata/mealy machine/main.cpp
+	<iostream>
+	<cstdio>
+	<vector>
+	<cstring>
+

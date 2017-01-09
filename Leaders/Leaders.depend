@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1481919894 source:d:\c_projects\leaders\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<vector>
+	<algorithm>
+	<map>
+	<tr1/unordered_set>
+
